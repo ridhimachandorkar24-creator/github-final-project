@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Simple Interest Calculator is a simple Bash-based application that calculates the simple interest on a principal amount using the interest rate and time period provided by the user.
+The Simple Interest Calculator is a simple Bash-based application that calculates the simple interest on a principal amount using interest rate and time period provided by the user.
 
 This project demonstrates basic shell scripting, arithmetic operations, user input, and the use of Git and GitHub for version control.
 
